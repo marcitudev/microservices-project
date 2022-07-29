@@ -1,6 +1,6 @@
 # Microservices Project
 
-Microservices Project is a project created to study microservices concepts, focusing on the use of Spring Boot.
+Microservices Project is a project created to study microservices concepts, focusing on the use of **Spring Boot**.
 
 ### Resources used in the project:
 * Feign 
